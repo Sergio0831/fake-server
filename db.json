@@ -1,74 +1,28 @@
 {
-  "users": [
+  "products": [
     {
       "id": 1,
-      "first_name": "Justina",
-      "last_name": "Ginglell",
-      "email": "jginglell0@networkadvertising.org",
-      "gender": "Female"
+      "name": "iPhone 12 Pro",
+      "description": "6.1-inch Retina XDR display",
+      "brand": "iPhone",
+      "price": 999.99,
+      "image": "https://res.cloudinary.com/drnfipu1s/image/upload/c_scale,w_400/v1634657110/phones/iPhone12_kviic9.webp"
     },
     {
       "id": 2,
-      "first_name": "Marion",
-      "last_name": "Jenman",
-      "email": "mjenman1@surveymonkey.com",
-      "gender": "Male"
+      "name": "Samsung Galaxy S21",
+      "description": "6.2-inch AMOLED 2 display",
+      "brand": "Samsung",
+      "price": 799.99,
+      "image": "https://res.cloudinary.com/drnfipu1s/image/upload/c_scale,w_400/v1634554347/phones/SamsungGalaxyS21_ysedi1.webp"
     },
     {
       "id": 3,
-      "first_name": "Alfy",
-      "last_name": "Begin",
-      "email": "abegin2@list-manage.com",
-      "gender": "Female"
-    },
-    {
-      "id": 4,
-      "first_name": "Karney",
-      "last_name": "Zanussii",
-      "email": "kzanussii3@hao123.com",
-      "gender": "Male"
-    },
-    {
-      "id": 5,
-      "first_name": "Reid",
-      "last_name": "Schapero",
-      "email": "rschapero4@timesonline.co.uk",
-      "gender": "Male"
-    },
-    {
-      "id": 6,
-      "first_name": "Dorine",
-      "last_name": "Braybrookes",
-      "email": "dbraybrookes5@gov.uk",
-      "gender": "Female"
-    },
-    {
-      "id": 7,
-      "first_name": "Sarena",
-      "last_name": "Frape",
-      "email": "sfrape6@alexa.com",
-      "gender": "Female"
-    },
-    {
-      "id": 8,
-      "first_name": "Malva",
-      "last_name": "Pierse",
-      "email": "mpierse7@usda.gov",
-      "gender": "Female"
-    },
-    {
-      "id": 9,
-      "first_name": "Rania",
-      "last_name": "Dablin",
-      "email": "rdablin8@state.gov",
-      "gender": "Female"
-    },
-    {
-      "id": 10,
-      "first_name": "Ingrim",
-      "last_name": "Offen",
-      "email": "ioffen9@slideshare.net",
-      "gender": "Male"
+      "name": "OnePlus 9 Pro",
+      "description": "6.7-inch Fluid Display 2.0",
+      "brand": "OnePlus",
+      "price": 919.19,
+      "image": "https://res.cloudinary.com/drnfipu1s/image/upload/c_scale,w_400/v1634553985/phones/OnePlus_eoms2o.webp"
     }
   ]
 }
